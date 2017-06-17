@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Roman",
+    "latitude": "28.61436",
+    "longitude": "77.181056"
+  },
+  {
+    "id": "2",
+    "name": "Rowland",
+    "latitude": "28.535516",
+    "longitude": "77.391026"
+  },
+  {
+    "id": "3",
+    "name": "Ola",
+    "latitude": "47.257492",
+    "longitude": "60.617239"
+  },
+  {
+    "id": "4",
+    "name": "Keith",
+    "latitude": "-48.311469",
+    "longitude": "-123.861439"
+  },
+  {
+    "id": "5",
+    "name": "Deidre",
+    "latitude": "-69.595871",
+    "longitude": "-123.402907"
+  },
+  {
+    "id": "6",
+    "name": "Therese",
+    "latitude": "-7.043023",
+    "longitude": "-65.433988"
+  },
+  {
+    "id": "7",
+    "name": "Castro",
+    "latitude": "-79.12656",
+    "longitude": "100.445367"
+  },
+  {
+    "id": "8",
+    "name": "Tami",
+    "latitude": "24.493369",
+    "longitude": "119.912124"
+  },
+  {
+    "id": "9",
+    "name": "Ora",
+    "latitude": "-34.122317",
+    "longitude": "-15.024249"
+  },
+  {
+    "id": "10",
+    "name": "Bowers",
+    "latitude": "-20.671941",
+    "longitude": "165.110675"
+  },
+  {
+    "id": "11",
+    "name": "Freeman",
+    "latitude": "82.648191",
+    "longitude": "115.789943"
+  },
+  {
+    "id": "12",
+    "name": "Letitia",
+    "latitude": "-35.492132",
+    "longitude": "-69.263678"
+  },
+  {
+    "id": "13",
+    "name": "Cole",
+    "latitude": "-41.75224",
+    "longitude": "-153.721578"
+  },
+  {
+    "id": "14",
+    "name": "Carey",
+    "latitude": "65.337022",
+    "longitude": "-88.939776"
+  },
+  {
+    "id": "15",
+    "name": "Carol",
+    "latitude": "-6.303458",
+    "longitude": "-42.018703"
+  },
+  {
+    "id": "16",
+    "name": "Tonia",
+    "latitude": "6.007487",
+    "longitude": "8.364397"
+  },
+  {
+    "id": "17",
+    "name": "Curry",
+    "latitude": "-87.568274",
+    "longitude": "177.391605"
+  },
+  {
+    "id": "18",
+    "name": "Leona",
+    "latitude": "31.67713",
+    "longitude": "-110.829471"
+  },
+  {
+    "id": "19",
+    "name": "Cheryl",
+    "latitude": "-7.083875",
+    "longitude": "-100.023567"
+  },
+  {
+    "id": "20",
+    "name": "Justice",
+    "latitude": "15.401522",
+    "longitude": "-154.676981"
+  }
+]
